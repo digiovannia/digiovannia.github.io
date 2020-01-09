@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Blue Ham
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Anthony DiGiovanni
+description: Academic website for Anthony DiGiovanni 
+keywords: 
 ---
 
-Blue Ham is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+I'm a first-year statistics PhD student at the University of Michigan. My research focus is inverse reinforcement learning, with an aim towards developing provably robust algorithms to enable artificial agents to infer and satisfy the values of systematically biased experts (i.e. humans!). I also do side projects on computational/theoretical ecology, and outside the nerd life I have interests in animal advocacy, philosophy, and cooking.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
