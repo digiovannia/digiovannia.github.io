@@ -18,14 +18,14 @@ I'm a first-year statistics PhD student at the University of Michigan. My resear
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Anthony DiGiovanni<br/>
+            Email: adigi@umich.edu<br/>
         </div>
 
         <div class="span2">
         <a href="../assets/headshot.jpg">
             <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+                  title="Anthony DiGiovanni" alt="Anthony DiGiovanni"/></a>
         </div>
     </div>
 </div>
@@ -34,8 +34,7 @@ I'm a first-year statistics PhD student at the University of Michigan. My resear
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/digiovannia">GitHub</a></li>
       </ul>
   </div>
 </div>
