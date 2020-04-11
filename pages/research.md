@@ -10,6 +10,9 @@ My research focuses on a potential solution to this problem: inverse reinforceme
 
 Another significant challenge for IRL is that of learning from demonstrations in multi-agent systems. RL agents deployed in the real world will have to account for the interactions between multiple people's latent reward functions, and IRL algorithms for learning such functions will require models of humans' process of predicting and reacting to each other's actions, beyond the dynamics of the environment. I am surveying game theory literature as a foundation for these models.
 
+## Publications
+
+1. DiGiovanni, S., Demanelis, K., Tong, L., Argos, M., Shinkle, J., Jasmine, F., Sabarinathan, M., Rakibuz-Zaman, M., Sarwar, G., Islam, M.T., Shahriar, H., Islam, T., Rahman, M., Yunus, M., Graziano, J., Gamble, M.V., Ahsan, H., Pierce, B.L. (2020) "Assessing the impact of arsenic metabolism efficiency on DNA methylation using Mendelian randomization," *Environmental Epidemiology*, 4 (2), e083.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
