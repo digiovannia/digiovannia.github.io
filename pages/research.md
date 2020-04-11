@@ -12,7 +12,7 @@ Another significant challenge for IRL is that of learning from demonstrations in
 
 ## Publications
 
-1. DiGiovanni, S., Demanelis, K., Tong, L., Argos, M., Shinkle, J., Jasmine, F., Sabarinathan, M., Rakibuz-Zaman, M., Sarwar, G., Islam, M.T., Shahriar, H., Islam, T., Rahman, M., Yunus, M., Graziano, J., Gamble, M.V., Ahsan, H., Pierce, B.L. (2020) "Assessing the impact of arsenic metabolism efficiency on DNA methylation using Mendelian randomization," *Environmental Epidemiology*, 4 (2), e083.
+1. DiGiovanni, A., Demanelis, K., Tong, L., Argos, M., Shinkle, J., Jasmine, F., Sabarinathan, M., Rakibuz-Zaman, M., Sarwar, G., Islam, M.T., Shahriar, H., Islam, T., Rahman, M., Yunus, M., Graziano, J., Gamble, M.V., Ahsan, H., Pierce, B.L. (2020) "Assessing the impact of arsenic metabolism efficiency on DNA methylation using Mendelian randomization," *Environmental Epidemiology*, 4 (2), e083.
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
