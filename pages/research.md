@@ -16,7 +16,7 @@ My previous research includes projects in environmental epidemiology, mathematic
 
 [Inverse Reinforcement Learning from Experts with State-Dependent Suboptimality ![MEIRL report]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/606_final.pdf)<br/>
 
-<!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
+<!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage. Testing-->
 
 <!--
 To increase the size of the title, use fewer # in front of the paper title.
