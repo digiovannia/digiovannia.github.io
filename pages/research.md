@@ -12,6 +12,10 @@ My previous research includes projects in environmental epidemiology, mathematic
 
 1. DiGiovanni, A., Demanelis, K., Tong, L., Argos, M., Shinkle, J., Jasmine, F., Sabarinathan, M., Rakibuz-Zaman, M., Sarwar, G., Islam, M.T., Shahriar, H., Islam, T., Rahman, M., Yunus, M., Graziano, J., Gamble, M.V., Ahsan, H., Pierce, B.L. (2020) "Assessing the impact of arsenic metabolism efficiency on DNA methylation using Mendelian randomization," *Environmental Epidemiology*, 4 (2), e083.
 
+## Unpublished Reports
+
+[Inverse Reinforcement Learning from Experts with State-Dependent Suboptimality ![MEIRL report]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/606_final.pdf)<br/>
+
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage.-->
 
 <!--
