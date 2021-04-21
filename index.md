@@ -5,7 +5,7 @@ description: Academic website for Anthony DiGiovanni
 keywords: 
 ---
 
-I'm a 2nd year statistics PhD student at the University of Michigan. My research focus is multi-agent reinforcement learning, with an aim towards developing provably robust algorithms for artificial agents to reach cooperative agreements. Outside the nerd life I have interests in animal advocacy, philosophy, writing, and cooking.
+I'm a 2nd year statistics PhD candidate at the University of Michigan. My research focus is multi-agent reinforcement learning, with an aim towards developing provably robust algorithms for artificial agents to reach cooperative agreements. Outside the nerd life I have interests in animal advocacy, philosophy, writing, and cooking.
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
