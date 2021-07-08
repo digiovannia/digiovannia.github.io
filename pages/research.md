@@ -15,9 +15,9 @@ My previous research includes projects in environmental epidemiology, mathematic
 
 ## Unpublished Reports and Preprints
 
-[Inverse Reinforcement Learning from Experts with State-Dependent Suboptimality ![MEIRL report]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/606_final.pdf)
+[Inverse Reinforcement Learning from Experts with State-Dependent Suboptimality ![MEIRL report]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/606_final.pdf)</br>
 
-[Survey of Self-Play in Reinforcement Learning](https://arxiv.org/abs/2107.02850), coauthored with E.C. Zell
+[Survey of Self-Play in Reinforcement Learning](https://arxiv.org/abs/2107.02850), coauthored with E.C. Zell</br>
 
 <!-- Note: this is how to write a comment in HTML. Everything in here won't show up on your webpage. Testing-->
 
